@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Jayfx24/FM-article-preview](https://your-solution-url.com)
-- Live Site URL: [https://jayfx24.github.io/FM-article-preview/](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Jayfx24/FM-article-preview](https://github.com/Jayfx24/FM-article-preview)
+- Live Site URL: [https://jayfx24.github.io/FM-article-preview/](https://jayfx24.github.io/FM-article-preview/)
 
 ## My process
 

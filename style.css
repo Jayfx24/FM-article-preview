@@ -207,18 +207,18 @@ h1 {
 @media (max-width:600px) {
     article {
         display: grid;
-        grid-template-rows: 35% 1fr;
-        height: auto;
+        grid-template-rows: 40% 1fr;
+        height: 60vh ;
     }
-
+    
     .article-body {
-
+        
         border-radius: 0 0 14px 14px;
         padding: 0;
         justify-content: space-between;
-        /* gap: 0; */
+        gap: 0;
     }
-
+    
     .article-body>*:not(.author-info) {
         padding: var(--spacing-400-2rem);
         padding-bottom: 0;
@@ -227,6 +227,7 @@ h1 {
 
     .side-img img {
         border-radius: 14px 14px 0 0;
+        object-position: top;
     }
 
     .side-img {

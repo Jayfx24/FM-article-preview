@@ -216,7 +216,7 @@ h1 {
         border-radius: 0 0 14px 14px;
         padding: 0;
         justify-content: space-between;
-        gap: 0;
+        /* gap: .5rem; */
     }
     
     .article-body>*:not(.author-info) {
@@ -237,6 +237,8 @@ h1 {
     .socials {
         inset: 0;
         border-radius: 0;
+        border-radius: 0 0 14px 14px;
+
     }
 
     .share-btn {

@@ -220,11 +220,13 @@ h1 {
     }
     
     .article-body>*:not(.author-info) {
-        padding: var(--spacing-400-2rem);
+        padding:   var(--spacing-400-2rem);
         padding-bottom: 0;
     }
 
-
+    .article-body .article-text {
+        padding-top:0;
+    }
     .side-img img {
         border-radius: 14px 14px 0 0;
         object-position: top;
